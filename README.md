@@ -1,2 +1,1 @@
-# SymNMF-
-SymNMF clustering Algorithm
+This project implements the Symmetric Nonnegative Matrix Factorization (SymNMF) algorithm using Python with C API for efficient data clustering. SymNMF decomposes a similarity matrix into lower-dimensional, nonnegative components, uncovering underlying patterns and group structures within the data. By leveraging Python's versatility (using libraries like NumPy,Pandas) and the computational speed of C, this implementation achieves optimized runtime performance on complex datasets.
